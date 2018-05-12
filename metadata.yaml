@@ -1,0 +1,30 @@
+_repo: A-History-of-the-French-Novel-Vol.-2To-the-Close-of-the-19th-Century_27872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+description: ''
+gutenberg_issued: '2009-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- History and criticism'
+title: 'A History of the French Novel, Vol. 2
+
+  To the Close of the 19th Century'
+url: http://www.gutenberg.org/ebooks/27872
