@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4608
     wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27872#A-History-of-the-French-Novel-Vol.-2To-the-Close-of-the-19th-Century
 gutenberg_issued: '2009-01-22'
 gutenberg_type: Text
 identifiers:
